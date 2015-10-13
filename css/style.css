@@ -1,0 +1,22 @@
+.rojo{
+	background:#EE3E64;
+	position:relative;
+}
+.azul{
+	background:blue;
+	position:relative;
+	left:200px;
+	z-index:1;
+}
+.verde{
+	background:#B7D84D;
+	position:relative;
+}
+.amarillo{
+	background:#FFFF00;
+	position:relative;
+}
+div{
+	height:200px;
+	width:200px;
+}
